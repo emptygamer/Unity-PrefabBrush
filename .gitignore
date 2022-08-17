@@ -58,3 +58,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Logs/
+UserSettings/
+Packages/
+ProjectSettings/
+Assets/Images/
+Assets/Scenes/
+Assets/Prefabs/
+
+Assets/Images.meta
+Assets/Scenes.meta
+Assets/Prefabs.meta
+.vscode/
